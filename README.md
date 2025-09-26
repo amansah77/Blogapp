@@ -11,7 +11,7 @@ A **social media-style blog** built with Django where users can create posts, li
 - **User Authentication**: Sign up, log in, log out.  
 - **Post Management**: Create, update, delete posts.  
 - **Likes System**: Users can like or unlike posts  
-- **Comments System**: Users can comment on posts. Comments display **user profile pictures**.  
+- **Comments System**: Users can comment on posts.
 - **Edit/Delete Comments**: Users can edit or delete their own comments.  
 - **User Profiles**: Each user has a profile with a profile picture.  
 - **Post Pagination**: Home page displays posts with pagination.  
@@ -27,6 +27,3 @@ A **social media-style blog** built with Django where users can create posts, li
 - **Database**: SQLite (default, can use PostgreSQL for production)  
 
 ---
-
-## 📂 Project Structure
-
